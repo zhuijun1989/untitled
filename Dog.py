@@ -13,6 +13,7 @@ class Dog:
 
 
 my_dog = Dog('WangCai', 1.5)
+
 your_dog = Dog('Zaizai', 7)
 print("My dog's name is " + my_dog.name.title() + '.')
 print("My dog is " + str(my_dog.age) + " years old")
